@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Grape Box",
     description: "Drag toward 10 points!",
-    url: "https://grape-box.vercel.app/",
+    url: "https://grape-box.vercel.app",
     siteName: "Grape Box",
     type: "website",
   },
