@@ -16,6 +16,7 @@ export const metadata: Metadata = {
   title: "Grape Box",
   description: "Calculation assistance. Fun for all ages.",
   keywords: "math, game, fun, education",
+  verification: { google: "onI3beFenSWljJTFcWI0MqfMsnPwNlBGPm-kJQmYg7g" },
   openGraph: {
     title: "Grape Box",
     description: "Drag toward 10 points!",
